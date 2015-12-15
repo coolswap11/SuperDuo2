@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="league_codes">
+        <item name="BUNDESLIGA1">394</item>
+        <item name="BUNDESLIGA2">395</item>
+        <item name="PREMIER_LEAGUE">398</item>
+        <item name="SERIE_A">401</item>
+        <item name="Bundesliga3">403</item>
+        <item name="CHAMP">405</item>
+        <item name="PREMIER_LEGAUE">354</item>
+        <item name="CHAMPIONS_LEAGUE">362</item>
+        <item name="BUNDESLIGA">351</item>
+    </integer-array>
+</resources>
